@@ -1,2 +1,2 @@
 demo cacib trainig texti
-Second line of demo 
+Second line of demo - conflict demo for master 
