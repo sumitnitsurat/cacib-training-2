@@ -1,2 +1,7 @@
 demo cacib trainig texti
+<<<<<<< HEAD
 Second line of demo - conflict demo for master 
+=======
+Second line of demo
+Third line of demo 
+>>>>>>> 65761b17f3777ab2e0d588909730b039f9bf81cb
