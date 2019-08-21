@@ -1,3 +1,5 @@
 demo cacib trainig texti
+Second line of demo - conflict demo for master 
 Second line of demo
 Third line of ------ modified demo 
+Third line of demo 
